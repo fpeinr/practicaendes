@@ -1,6 +1,7 @@
 package cuentas;
 
 /**
+ * MODIFICACIÓN PARA HACE EL SEGUNDO COMMIT
  * Inicio del programa. Sobre una cuenta dada de un titular, con saldo y tipo de interés
  * se realizan dos operaciones: una de retirar y otra de ingresar
  * @author Fernando Peinado Recas
